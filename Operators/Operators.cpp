@@ -1,6 +1,6 @@
 //WAP to find the sum of two number.
 #include<iostream>
-Using namespace std;
+using namespace std;
 int main(){
   int a, b, sum;
   cout>>"Enetr the first number: ";
@@ -14,7 +14,7 @@ int main(){
 
 //WAP to find the substract of two number.
 #include<iostream>
-Using namespace std;
+using namespace std;
 int main(){
   int a, b, subs;
   cout>>"Enetr the first number: ";
@@ -28,7 +28,7 @@ int main(){
 
 //WAP to find the product of two number.
 #include<iostream>
-Using namespace std;
+using namespace std;
 int main(){
   int a, b, pro;
   cout>>"Enetr the first number: ";
@@ -42,7 +42,7 @@ int main(){
 
 //WAP to find the division of two number.
 #include<iostream>
-Using namespace std;
+using namespace std;
 int main(){
   float a, b, div;
   cout>>"Enetr the first number: ";
