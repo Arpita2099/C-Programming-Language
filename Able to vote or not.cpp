@@ -1,5 +1,5 @@
 #include<iostream>
-Using namespace std;
+using namespace std;
 int main(){
   int age;
   cout<<"Enter any age in number: ";
